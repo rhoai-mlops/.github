@@ -1,6 +1,7 @@
 # ML500
-Welcome to the ML500 organization!  
+Welcome to ML500!  
 Here you can find the full enablement along with everything needed to set up an environment and run through it.  
+
 It currently consists of these repositories:  
 - [lab-instructions](https://github.com/rhoai-mlops/lab-instructions) - The ML500 instructions, rendered [here](https://rhoai-mlops.github.io/lab-instructions/).
 - [deploy-lab](https://github.com/rhoai-mlops/deploy-lab) - All scripts needed to set up the baseline environment.

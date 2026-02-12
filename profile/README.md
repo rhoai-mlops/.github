@@ -1,5 +1,6 @@
-# AI500
-Welcome to AI500!  
+# AI500 MLOps Enablement 🎶
+
+Welcome to AI500 MLOps Enablement!  
 
 AI500 is a MLOps enablement, taking you through the inner loop all the way out to a fully automated system that trains and deploys models based on triggers such as data versions, git changes, and metrics.  
 
